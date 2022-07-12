@@ -1,0 +1,112 @@
+body {
+    background-color: rgb(135, 250, 231);
+
+}
+.header {
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    padding-left: 50%;
+}
+
+.column {
+    float: left;
+    padding: 12px;
+}
+.column.side1 {
+    background: fixed;
+    margin: 0;
+    width: 20%;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border: 0px;
+    border-radius: 50%;
+    border-image: round;
+}
+.ks img {
+    border: 1px solid black;
+    width: 100%;
+    border-radius: 48%;
+}
+.column.side2 {
+    margin: auto;
+    width: 25%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    border: 0px;
+    border-radius: 50%;
+}
+.column.side3 {
+    background: fixed;
+    margin: 0;
+    width: 20%;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border: 0px;
+    border-radius: 50%;
+    text-align: center;
+}
+column.side4 {
+    background: fixed;
+    margin: 0;
+    width: 15%;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border: 0px;
+    border-radius: 50%;
+}
+column.side5 {
+    background: fixed;
+    margin: 0;
+    width: 20%;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border: 0px;
+    border-radius: 50%;
+}
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+k1 {
+    padding: 10px 12px;
+    margin-left: 15px;
+    margin-top: 10px;
+    padding-left: 300px;
+    padding-right: 100px;
+}
+p.padding2 {
+    padding-left: 500px;
+
+}
+p.padding2 {
+    padding-left: 500px;
+
+}
+p.padding2 {
+    padding-left: 500px;
+
+}
+sg1.padding2 {
+    padding-left: 50%;
+
+}
+sg2.padding2 {
+    padding-left: 50%;
+
+}
+sg3.padding2 {
+    padding-left: 50%;
+
+}
